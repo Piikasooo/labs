@@ -1,0 +1,9 @@
+language: generic
+deploy:
+  provider: s3
+  access_key_id: AKIAIK2M4HA65Z5TVHQQ
+  secret_access_key: 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
+  bucket: git-to-amazon-s3-outputbucket-ictqaz7hajzc
+  on:
+    repo: Piikasooo/labs
+  acl: public_read
