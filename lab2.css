@@ -57,12 +57,12 @@
 		margin: auto;
 		min-width: 700px;
 		max-width: 700px;
-		height: 100px;
+		height: 70px;
 	}
 	
 	.One{
 		font-size: 22px;
-		height: 100px;
+
 	}
 	
 	.Eight,
@@ -71,14 +71,14 @@
 	}
 
 	.Row{
-		height:285px;
+		height:375px;
 	}
 	
 	.Three,
 	.Four {
 		min-width: 244px;
 		max-width: 244px;
-		height: 133px;
+		height: 178px;
 		left: 0;
 	}
  
