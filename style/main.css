@@ -15,22 +15,14 @@
 
 .article {
     text-align: left;
-    background: #fafafa;
 }
 
 header {
-	background: black;
-	color:white;
+	background: blue;
+	color:black;
 }
 
-footer {
-	background: #696969;
-	color:white;
-}
 
-.nav {
-	background:#e6e6e6;
-}
 
 .nav ul {
     list-style-type: none;
@@ -41,7 +33,7 @@ footer {
   display: inline-block;
   letter-spacing: 1px;
   font-size: 18px;
-  font-family: 'Fredoka One', cursive;
+
   transition: .3s ease-in-out;
   color: #696969;
   text-shadow: 1px 1px black;
