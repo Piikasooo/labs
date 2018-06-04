@@ -1,0 +1,22 @@
+[
+    {
+    "1" :"iPhone (2007-2008)", 
+	"2" :"iPhone 3G (2008-2010)" ,
+	"3" :"iPhone 3GS (2009-2012)", 
+	"4" :"iPhone 4 (2010-2013)", 
+	"5" : "iPhone 4S (2011-2014)", 
+	"6" : "iPhone 5 (2012-2013)", 
+	"7" : "iPhone 5C (2013-2015)", 
+	"8" :"iPhone 5S (2013-2016)",
+	"9" :"iPhone 6 (2014-2016)",
+	"10" :"iPhone 6 Plus (2014-2016)",
+	"11" :"iPhone 6S (2015-now)",
+	"12" :"iPhone 6S Plus (2015-now)",
+	"13" :"iPhone SE (2016-now)",
+	"14" :"iPhone 7 (2016-now)",
+	"15" :"iPhone 7 Plus (now)",
+	"16" :"iPhone 8 (now)",
+	"17" :"iPhone 8 Plus (now)",
+	"18" :"iPhone X (now)"
+    }
+]
